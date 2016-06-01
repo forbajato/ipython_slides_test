@@ -12,4 +12,4 @@ git add -A .
 git commit -m "new version"
 git push origin master gh-pages
 git checkout master
-rm -rf /tmp/workspaceink_to("LinkText","Link")
+rm -rf /tmp/workspace
